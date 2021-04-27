@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 08:20:34</sys_created_on>
+        <sys_id>26195ef4073f20101246fa7f7c1ed0c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_567080_myapp_emp_details.x_567080_myapp.emp details</sys_name>
+        <sys_package display_value="myApp" source="x_567080_myapp">f94816f4073f20101246fa7f7c1ed06c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myApp">f94816f4073f20101246fa7f7c1ed06c</sys_scope>
+        <sys_security_acl display_value="x_567080_myapp_emp_details">661916f4073f20101246fa7f7c1ed076</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_26195ef4073f20101246fa7f7c1ed0c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 08:20:34</sys_updated_on>
+        <sys_user_role display_value="x_567080_myapp.emp details" name="x_567080_myapp.emp details">908896f4073f20101246fa7f7c1ed0f3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

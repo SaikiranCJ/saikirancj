@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="emp details" max_length="40" name="x_567080_myapp_emp_details" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="nick name" max_length="40" name="nick_name" type="string"/>
+        <element label="Born in India" max_length="40" name="u_boolean_2" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="DOB" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

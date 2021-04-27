@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="026dcf85073320101246fa7f7c1ed015" sys_domain="global" table="x_567080_myapp_emp_details" version="3" view="emp_mgr_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_2</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 06:47:35</sys_created_on>
+            <sys_id>066dcf85073320101246fa7f7c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_567080_myapp_emp_details" sys_domain="global" view="356dcf85073320101246fa7f7c1ed010">026dcf85073320101246fa7f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 06:47:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 06:47:35</sys_created_on>
+            <sys_id>866dcf85073320101246fa7f7c1ed037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_567080_myapp_emp_details" sys_domain="global" view="356dcf85073320101246fa7f7c1ed010">026dcf85073320101246fa7f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 06:47:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_567080_myapp_emp_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-27 06:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>026dcf85073320101246fa7f7c1ed015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_567080_myapp_emp_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="myApp" source="x_567080_myapp">f94816f4073f20101246fa7f7c1ed06c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myApp">f94816f4073f20101246fa7f7c1ed06c</sys_scope>
+            <sys_update_name>sys_ui_section_026dcf85073320101246fa7f7c1ed015</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-27 06:47:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="emp mgr view" name="emp_mgr_view">356dcf85073320101246fa7f7c1ed010</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

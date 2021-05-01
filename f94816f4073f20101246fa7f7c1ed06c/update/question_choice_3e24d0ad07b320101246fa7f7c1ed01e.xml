@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Gender">7413186d07b320101246fa7f7c1ed0cf</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 06:39:21</sys_created_on>
+        <sys_id>3e24d0ad07b320101246fa7f7c1ed01e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Male</sys_name>
+        <sys_package display_value="myApp" source="x_567080_myapp">f94816f4073f20101246fa7f7c1ed06c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myApp">f94816f4073f20101246fa7f7c1ed06c</sys_scope>
+        <sys_update_name>question_choice_3e24d0ad07b320101246fa7f7c1ed01e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 06:39:21</sys_updated_on>
+        <text>Male</text>
+        <value/>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=3e24d0ad07b320101246fa7f7c1ed01e"/>
+</record_update>

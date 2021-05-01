@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="India" max_length="40" name="x_567080_myapp_india" sizeclass="1" type="collection">
+        <element label="DOB" max_length="40" name="dob" type="string"/>
+        <element label="Emp ID" max_length="40" name="emp_id" type="string"/>
+        <element label="Fav place" max_length="40" name="fav_place" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

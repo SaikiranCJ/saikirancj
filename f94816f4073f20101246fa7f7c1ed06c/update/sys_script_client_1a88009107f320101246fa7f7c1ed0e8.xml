@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>script2</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //Type appropriate comment here, and begin script below
+    var output = g_form.getValue('fav_place').length;
+    if (output > 10) {
+        alert(output);
+        g_form.showFieldMsg('fav_place', "Exceed limit", 'error');
+        g_form.setValue('description', 'Fav place is ' + g_form.getValue('fav_place'));
+    } else {
+        alert(output);
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-27 11:06:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a88009107f320101246fa7f7c1ed0e8</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>script2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="myApp" source="x_567080_myapp">f94816f4073f20101246fa7f7c1ed06c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myApp">f94816f4073f20101246fa7f7c1ed06c</sys_scope>
+        <sys_update_name>sys_script_client_1a88009107f320101246fa7f7c1ed0e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-27 11:31:16</sys_updated_on>
+        <table>x_567080_myapp_emp_details</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
